@@ -1,5 +1,5 @@
 <?php
-$nim="E12345678";
+$nim="E41221967";
 $nama="Shila";
 $prodi="Teknik Informatika";
 echo "Selamat Praktikum";
